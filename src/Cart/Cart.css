@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+}
+
+.container{
+    max-width: 1400px;
+    margin: 0 auto;
+  }
+  table{
+      border-collapse: collapse;
+      border: 2px solid black;
+      margin: 0 auto 40px auto;
+
+  }
+ td {
+    border: 2px solid black;
+    text-align: center;
+  }
+  tr:hover{
+background: rgb(157, 250, 219);
+  }
+  button{
+    background: rgb(254, 255, 170);
+  }
+  button:hover{
+    cursor: pointer;
+    /* width: 55%; */
+    background: rgb(254, 255, 170);
+ }
+ img{
+   max-width: 200px;
+
+ }
+ .center{
+   text-align: center;
+ }
+ 

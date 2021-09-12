@@ -1,0 +1,38 @@
+[
+    {
+        "articul": "284s",
+        "title": "Apple",
+        "cost": 70,
+        "image": "https://p2.piqsels.com/preview/24/568/1010/red-apple-fruit-food.jpg"
+    },
+    {
+        "articul": "2s8d",
+        "title": "Lemon",
+        "cost": 40,
+        "image": "https://cdn.pixabay.com/photo/2020/04/21/19/00/slice-of-lemon-5074363_1280.jpg"
+    },
+    {
+        "articul": "2s8k",
+        "title": "Cherry",
+        "cost": 45,
+        "image": "https://pixnio.com/free-images/flora-plants/fruits/cherry-fruit-pictures/cherry-fruits.jpg"
+    },
+    {
+        "articul": "2s8c",
+        "title": "Yellow Pear",
+        "cost": 66,
+        "image": "https://p0.pxfuel.com/preview/944/2/404/con2011-close-up-closeup-food.jpg"
+    },
+    {
+        "articul": "2s8g",
+        "title": "Green Pear",
+        "cost": 66,
+        "image": "https://cdn.pixabay.com/photo/2010/12/13/10/06/food-2280_1280.jpg"
+    },
+    {
+        "articul": "2s8m",
+        "title": "Water Melon",
+        "cost": 86,
+        "image": "https://live.staticflickr.com/65535/50234854592_ef880f4914_b.jpg"
+    }
+]
